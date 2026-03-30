@@ -1,0 +1,20 @@
+Name: Robert Resendez
+Student ID: U10878472
+Email: grafx2g@gmail.com
+Course Name: C/C++ Programming II : Dynamic Memory and File I/O Concepts
+Section ID: 196131
+Instructor Name: Mitchell, Raymond L.
+Date: 03-29-26
+File Name: C2A1E0_Quiz.txt
+Content Description: Assignment 1 quiz answers
+
+1. D
+2. E
+3. E
+4. B
+5. A
+6. A
+7. B
+8. C
+9. A
+10. D
